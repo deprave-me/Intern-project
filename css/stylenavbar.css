@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 May, 2022, 8:00:43 PM
+    Author     : 20018813
+*/
+
+fbody {
+    background-color: #242424;
+}
+
+
+.first-txt {
+    position: absolute;
+    top: 210px;
+    left: 395px;
+    color:#FFFFFF;
+    font-size:30px; 
+}
+
+.second-txt {
+    position: absolute;
+    top:300px;
+    left: 560px;
+    color:#FFFFFF;
+    font-size:20px; 
+}
+
+.imageContainer {
+
+    height:354px;
+
+    background-image: url(https://www.simpleimageresizer.com/_uploads/photos/745f29d4/homepage_1921x354.jpg);
+}
+
